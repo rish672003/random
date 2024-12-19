@@ -1,2 +1,39 @@
 this is file no 2 what we can did this want to sumbit the new filw
 hi this is me
+git add/rm
+
+let supoose we have a file name is hey you are 
+Date: 2024-12-19
+Time: 10:45 AM
+
+ID: 001
+Name: John Doe
+Age: 28
+City: New York
+Occupation: Software Developer
+Status: Active
+
+ID: 002
+Name: Jane Smith
+Age: 35
+City: Los Angeles
+Occupation: Data Analyst
+Status: Inactive
+
+Random Numbers:
+42, 87, 19, 63, 10, 98, 51, 33, 76, 52
+
+Product List:
+1. Laptop - $799.99
+2. Smartphone - $499.49
+3. Wireless Mouse - $25.99
+4. Bluetooth Headphones - $59.99
+5. Smartwatch - $199.99
+
+Log:
+2024-12-19 09:00 AM - User logged in.
+2024-12-19 09:15 AM - User updated profile.
+2024-12-19 09:30 AM - User checked inbox.
+2024-12-19 10:00 AM - User logged out.
+
+Random 
